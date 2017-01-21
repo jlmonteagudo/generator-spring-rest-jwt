@@ -36,10 +36,12 @@ module.exports = Generator.extend({
 
     // root project files
 
+    /*
     this.fs.copy(
       this.templatePath('.gitignore'),
       this.destinationPath(this.props.projectName + '/.gitignore')
     );
+    */
 
     this.fs.copy(
       this.templatePath('mvnw'),
