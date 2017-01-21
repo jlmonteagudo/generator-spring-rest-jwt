@@ -28,9 +28,10 @@ User - user:password
 Disabled - disabled:password (this user is disabled)
 ```
 
-There are two endpoints that creates this generator:
+There are three endpoints that creates this generator:
 ```
 /auth - authentication endpoint with unrestricted access
+/user - shows logged in user information
 /admin - an example endpoint that is restricted to authorized users with the role 'ROLE_ADMIN' (a valid JWT token must be present in the request header)
 ```
 
