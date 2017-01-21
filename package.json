@@ -1,6 +1,6 @@
 {
   "name": "generator-spring-rest-jwt",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Creates the skeleton of an API REST developed with Spring Boot, that uses JWT to protect the API",
   "homepage": "",
   "author": {
