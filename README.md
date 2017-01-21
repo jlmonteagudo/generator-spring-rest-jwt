@@ -18,6 +18,11 @@ Then generate your new project:
 yo spring-rest-jwt
 ```
 
+## Video Tutorial (Spanish)
+
+[![Spring REST JWT](http://www.jlmonteagudo.com/wp-content/uploads/2017/01/spring-rest-jwt.png)](https://www.youtube.com/watch?v=XU_5YPCntqE)
+
+
 ## Usage
 
 Once you have created your project you can get an access token for the following accounts:
